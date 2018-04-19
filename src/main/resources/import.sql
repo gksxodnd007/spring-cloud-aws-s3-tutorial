@@ -1,0 +1,1 @@
+INSERT INTO `players` (`user_id`) VALUES ('codingsquid');
