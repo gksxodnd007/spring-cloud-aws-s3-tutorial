@@ -26,7 +26,7 @@ public class StorageTestController {
     @PostMapping(value = "/spring-cloud-storage/tutorial/{player_id}",
             consumes = "multipart/form-data")
     public void uploadProfileImage(@PathVariable(name = "player_id")String playerId,
-                                     @RequestPart(name = "file")MultipartFile multipartFile) {
+                                   @RequestPart(name = "file")MultipartFile multipartFile) {
         if (multipartFile.isEmpty()) {
             System.out.println("file is empty");
         }
