@@ -14,7 +14,7 @@ public class Player {
     @Column(name = "id", columnDefinition = "INT(11)")
     private Long id;
 
-    @Column(name = "user_id", nullable = false)
+    @Column(name = "user_id", nullable = false, unique = true)
     private String userId;
 
     @Column(name = "profile_image_url")
