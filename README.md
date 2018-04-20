@@ -95,7 +95,7 @@ https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/Introduction.html#BasicsBu
 
 ### AWS S3 이용방법
 
-![main](https://i.imgur.com/v74VSiG.png)
+![main](https://i.imgur.com/WifcxnN.png){: width="100" height="100"}
 
 ![BucketBtn](https://i.imgur.com/rdNNsZO.png)
 
