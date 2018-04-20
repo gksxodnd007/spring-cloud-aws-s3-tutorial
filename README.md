@@ -92,5 +92,3 @@ Amazon S3는 의도적으로 단순성 및 견고성에 초점을 두는 최소�
 
 **AWS S3에 대한 개념및 용어 정리**
 https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/Introduction.html#BasicsBucket
-
-### AWS S3 이용방법
