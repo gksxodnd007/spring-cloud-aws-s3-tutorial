@@ -94,31 +94,3 @@ Amazon S3는 의도적으로 단순성 및 견고성에 초점을 두는 최소�
 https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/Introduction.html#BasicsBucket
 
 ### AWS S3 이용방법
-
-![main](https://i.imgur.com/WifcxnN.png =24X24)
-
-![BucketBtn](https://i.imgur.com/rdNNsZO.png)
-
-![1](https://i.imgur.com/Yqj1zIz.png)
-
-![2](https://i.imgur.com/27FQNte.png)
-
-![3](https://i.imgur.com/Q7OaWs2.png)
-
-![4](https://i.imgur.com/r9lpexQ.png)
-
-![security_1](https://i.imgur.com/qiP0KOM.png)
-
-![security_2](https://i.imgur.com/iabkI7S.png)
-
-![security_3](https://i.imgur.com/LPaWg8z.png)
-
-![security_4](https://i.imgur.com/MlBdFqJ.png)
-
-![security_5](https://i.imgur.com/abLabGC.png)
-
-![security_6](https://i.imgur.com/rzU5mkm.png)
-
-![security_7](https://i.imgur.com/9u5Bibn.png)
-
-![security_8](https://i.imgur.com/rhObH0L.png)
