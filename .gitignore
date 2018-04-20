@@ -27,3 +27,6 @@
 
 ### properties file ###
 *.properties
+
+### log file ###
+*.log
